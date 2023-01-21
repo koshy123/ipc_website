@@ -2,4 +2,4 @@ from django.contrib import admin
 
 from .models import Home
 
-admin.site.register(Product)
+admin.site.register(Home)
